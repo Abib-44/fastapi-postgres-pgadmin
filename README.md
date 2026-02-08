@@ -55,8 +55,7 @@ This project is a fully containerized Python backend application built with **Fa
 1. **Clone the repository**:
 
 ```bash
-git clone <repo_url>
-cd <repo_folder>
+git clone git@github.com:Abib-44/fastapi-postgres-pgadmin.git
 ```
 
 And in the end
